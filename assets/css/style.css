@@ -73,9 +73,9 @@ h6 {
   background: transparent;
 }
 
-#topbar.topbar-scrolled {
+/* #topbar.topbar-scrolled {
   top: -50px;
-}
+} */
 
 #topbar i {
   color: #ffb03b;
